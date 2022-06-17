@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Family Map Client</string>
+
+    <string name="ClickCountLabel">Click Count:</string>
+
+    <string name="IncrementButtonLabel">Increment</string>
+
+    <string name="ClearButtonLabel">Clear</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="firstName">"First Name"</string>
+    <string name="firstNameBold"><b>"First Name"</b></string>
+    <string name="lastName">"Last Name"</string>
+    <string name="lastNameBold"><b>"Last Name"</b></string>
+    <string name="addressLine1">"Address Line 1"</string>
+    <string name="addressLine2">"Address Line 2"</string>
+    <string name="city">"City"</string>
+    <string name="state">"State"</string>
+    <string name="zipCode">"Zip Code"</string>
+    <string name="emailAddress">"Email Address"</string>
+    <string name="homePhone">"Home Phone"</string>
+    <string name="cellPhone">"Cell Phone"</string>
+    <string name="signInButton">"Sign In"</string>
+    <string name="registerButton">"Register"</string>
+    <string name="serverHost">"Server Host"</string>
+    <string name="serverPort">"Server Port"</string>
+    <string name="username">"User Name"</string>
+    <string name="failString">"Sorry, login failed"</string>
+    <string name="male">"Male"</string>
+    <string name="female">"Female"</string>
+    <string name="gender">"Gender: "</string>
+    <string name="genderBold"><b>"Gender"</b></string>
+    <string name="failRegister">"Sorry, register failed"</string>
+    <string name="defaultEventText"><b>"Select event to see more details"</b></string>
+
+    <string name="eventListTitle">"Events"</string>
+    <string name="personListTitle">"People"</string>
+
+    <string name="father">"Father"</string>
+    <string name="mother">"Mother"</string>
+    <string name="spouse">"Spouse"</string>
+    <string name="child">"Child"</string>
+
+    <string name="settings">"Settings"</string>
+
+    <string name="LifeStoryLines"><b>"Life Story Lines"</b></string>
+    <string name="LifeStoryDesc">"Show Life Story Lines"</string>
+    <string name="SpouseLines"><b>"Spouse Lines"</b></string>
+    <string name="SpouseDesc">"Show Spouse Lines"</string>
+    <string name="FathersSide"><b>"Father's Side"</b></string>
+    <string name="FathersSideDesc">"Filter BY Father's Side Of Family"</string>
+    <string name="MothersSide"><b>"Mother's Side"</b></string>
+    <string name="MothersSideDesc">"Filter by Mother's Side Of Family"</string>
+    <string name="MaleEvents"><b>"Male Events"</b></string>
+    <string name="MaleEventsDesc">"Filter Events Based On Gender"</string>
+    <string name="FemaleEvents"><b>"Female Events"</b></string>
+    <string name="FemaleEventsDesc">"Filter Events Based On Gender"</string>
+    <string name="Logout"><b>"Logout"</b></string>
+    <string name="LogoutDesc">"Return To Login Screen"</string>
+
+    <string name="FamilyTree"><b>"Family Tree Lines"</b></string>
+    <string name="FamilyTreeDesc">"Show Family Tree Lines"</string>
+
+
+
+
+
+
+
+    <string name="search">"Search"</string>
+
+
+
+
+</resources>
